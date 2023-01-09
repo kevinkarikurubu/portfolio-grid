@@ -120,8 +120,8 @@ h4 {
 
 /* 3- portfolio section */
 #portfolio {
-  background: url(https://github.com/iamshaunjp/responsive-css-grid-build/blob/lesson-2/assets/square_bg.png?raw=true)
-    bottom/cover no-repeat;
+  
+  background-color: #07083e;
   padding: 30px 20px;
 }
 #portfolio h3 {
